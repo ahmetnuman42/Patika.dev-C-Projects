@@ -1,0 +1,16 @@
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\Karakter_Tersten_Yazdırma.exe
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\Karakter_Tersten_Yazdırma.deps.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\Karakter_Tersten_Yazdırma.runtimeconfig.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\Karakter_Tersten_Yazdırma.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\Karakter_Tersten_Yazdırma.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\ref\Karakter_Tersten_Yazdırma.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\bin\Debug\net5.0\Karakter_Tersten_Yazdırma.pdb
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\ref\Karakter_Tersten_Yazdırma.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.pdb
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Karakter_Tersten_Yazdırma\obj\Debug\net5.0\Karakter_Tersten_Yazdırma.genruntimeconfig.cache
