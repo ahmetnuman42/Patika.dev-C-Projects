@@ -1,0 +1,16 @@
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\Integer_İkililerinin_Toplamı.exe
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\Integer_İkililerinin_Toplamı.deps.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\Integer_İkililerinin_Toplamı.runtimeconfig.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\Integer_İkililerinin_Toplamı.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\Integer_İkililerinin_Toplamı.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\ref\Integer_İkililerinin_Toplamı.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\bin\Debug\net5.0\Integer_İkililerinin_Toplamı.pdb
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\ref\Integer_İkililerinin_Toplamı.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.pdb
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Integer_İkililerinin_Toplamı\obj\Debug\net5.0\Integer_İkililerinin_Toplamı.genruntimeconfig.cache
