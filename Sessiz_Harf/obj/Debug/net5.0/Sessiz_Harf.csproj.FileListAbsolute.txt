@@ -1,0 +1,16 @@
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\Sessiz_Harf.exe
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\Sessiz_Harf.deps.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\Sessiz_Harf.runtimeconfig.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\Sessiz_Harf.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\Sessiz_Harf.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\ref\Sessiz_Harf.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\bin\Debug\net5.0\Sessiz_Harf.pdb
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\ref\Sessiz_Harf.dll
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.pdb
+C:\Users\ahmet\Desktop\Projelerim\C#-Projelerim\Sessiz_Harf\obj\Debug\net5.0\Sessiz_Harf.genruntimeconfig.cache
